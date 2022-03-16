@@ -1,4 +1,4 @@
-
+# PostgreSQL-Authorization
 - PostgreSQL allows you to **define access control rules** in one place (the db)
 - The first layer of any PostgreSQL authorization project is roles. Database roles can represent users and/or groups. A PostgreSQL database will typically start with a single superuser role named "postgres".
 - To view the roles that exist in the database, run ```\du```
